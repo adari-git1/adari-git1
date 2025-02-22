@@ -1,4 +1,8 @@
 ## Hi there 👋
+My name is Bhaskar and CS Graduate from UCM interested in Python and Data.
+- 🔭 I’m currently working on Resume match score[https://github.com/adari-git1/resume_scorer]  project to automate it by Apache Airflow.
+- 🌱 I’m currently learning Apache Airflow.
+- 👯 I’m looking to collaborate on Opensource projects related to Data field.
 
 <!--
 **adari-git1/adari-git1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
