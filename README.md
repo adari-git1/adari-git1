@@ -1,5 +1,5 @@
-## Hi there 👋
-My name is Bhaskar and CS Graduate from UCM interested in Python and Data.
+## Hi there 👋,I'm Bhaskar Adari
+A Computer Science Graduate from UCM  and interested in Data Processing Tools.
 - 🔭 I’m currently working on Resume match score[https://github.com/adari-git1/resume_scorer]  project to automate it by Apache Airflow.
 - 🌱 I’m currently learning Apache Airflow.
 - 👯 I’m looking to collaborate on Opensource projects related to Data field.
